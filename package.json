@@ -2,7 +2,7 @@
   "name": "videojs-contrib-media-sources",
   "version": "2.4.5",
   "description": "A Media Source Extensions plugin for video.js",
-  "main": "dist/videojs-media-sources.js",
+  "main": "src/videojs-media-sources.js",
   "scripts": {
     "test": "karma start test/karma.conf.js"
   },
