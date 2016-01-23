@@ -1140,4 +1140,4 @@ addTextTrackData = function (sourceHandler, captionArray, metadataArray) {
     }
   };
 
-})(this, this.muxjs);
+})(window, window.muxjs);
